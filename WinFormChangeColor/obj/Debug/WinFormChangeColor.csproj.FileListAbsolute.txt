@@ -1,0 +1,10 @@
+C:\Users\Ben\source\repos\WinFormChangeColor\WinFormChangeColor\bin\Debug\WinFormChangeColor.exe.config
+C:\Users\Ben\source\repos\WinFormChangeColor\WinFormChangeColor\bin\Debug\WinFormChangeColor.exe
+C:\Users\Ben\source\repos\WinFormChangeColor\WinFormChangeColor\bin\Debug\WinFormChangeColor.pdb
+C:\Users\Ben\source\repos\WinFormChangeColor\WinFormChangeColor\obj\Debug\WinFormChangeColor.csprojResolveAssemblyReference.cache
+C:\Users\Ben\source\repos\WinFormChangeColor\WinFormChangeColor\obj\Debug\WinFormChangeColor.Form1.resources
+C:\Users\Ben\source\repos\WinFormChangeColor\WinFormChangeColor\obj\Debug\WinFormChangeColor.Properties.Resources.resources
+C:\Users\Ben\source\repos\WinFormChangeColor\WinFormChangeColor\obj\Debug\WinFormChangeColor.csproj.GenerateResource.cache
+C:\Users\Ben\source\repos\WinFormChangeColor\WinFormChangeColor\obj\Debug\WinFormChangeColor.csproj.CoreCompileInputs.cache
+C:\Users\Ben\source\repos\WinFormChangeColor\WinFormChangeColor\obj\Debug\WinFormChangeColor.exe
+C:\Users\Ben\source\repos\WinFormChangeColor\WinFormChangeColor\obj\Debug\WinFormChangeColor.pdb
